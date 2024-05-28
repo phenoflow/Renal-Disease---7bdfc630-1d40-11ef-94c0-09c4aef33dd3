@@ -1,0 +1,87 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/mesangiocapillary-renal-disease---primary.py
+inputModule3:
+  class: File
+  path: python/renal-disease-stage---primary.py
+inputModule4:
+  class: File
+  path: python/renal-disease-function---primary.py
+inputModule5:
+  class: File
+  path: python/renal-disease-chron---primary.py
+inputModule6:
+  class: File
+  path: python/renal-disease-membranoprolif---primary.py
+inputModule7:
+  class: File
+  path: python/renal-disease-pyelonephritis---primary.py
+inputModule8:
+  class: File
+  path: python/tubular-renal-disease---primary.py
+inputModule9:
+  class: File
+  path: python/renal-disease-osteodystrophy---primary.py
+inputModule10:
+  class: File
+  path: python/nephropathy-renal-disease---primary.py
+inputModule11:
+  class: File
+  path: python/renal-disease-unspecified---primary.py
+inputModule12:
+  class: File
+  path: python/renal-disease-diffuse---primary.py
+inputModule13:
+  class: File
+  path: python/renal-disease-lesion---primary.py
+inputModule14:
+  class: File
+  path: python/cortical-renal-disease---primary.py
+inputModule15:
+  class: File
+  path: python/medullary-renal-disease---primary.py
+inputModule16:
+  class: File
+  path: python/other-renal-disease---primary.py
+inputModule17:
+  class: File
+  path: python/renal-disease---primary.py
+inputModule18:
+  class: File
+  path: python/membranous-renal-disease---primary.py
+inputModule19:
+  class: File
+  path: python/renal-disease-failure---primary.py
+inputModule20:
+  class: File
+  path: python/acute-renal-disease---primary.py
+inputModule21:
+  class: File
+  path: python/focal-renal-disease---primary.py
+inputModule22:
+  class: File
+  path: python/renal-disease-necrosis---primary.py
+inputModule23:
+  class: File
+  path: python/nephrotic-renal-disease---primary.py
+inputModule24:
+  class: File
+  path: python/tubulointerstitial-renal-disease---primary.py
+inputModule25:
+  class: File
+  path: python/hypertensive-renal-disease---primary.py
+inputModule26:
+  class: File
+  path: python/progressive-renal-disease---primary.py
+inputModule27:
+  class: File
+  path: python/renal-disease-kidney---primary.py
+inputModule28:
+  class: File
+  path: python/nephritic-renal-disease---primary.py
+inputModule29:
+  class: File
+  path: python/output-cases.py
